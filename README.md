@@ -3,7 +3,7 @@
 <head>
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='lE=edge'>
-<title>TITULO DA</title>
+<title> TITULO DA ABA</title>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <link rel='stylesheet' type='text/css' media='screen' href='style.css'>
 <script src='main.js'></script>
@@ -18,9 +18,9 @@
 </nav>
 </header>
 <main>
-<h1>QUIMICA</h1></h1>
+<h1>ingles</h1></h1>
 <div class="PRIMEIROPARAGRAFO">
-<h3>EQUILIBRIO QUIMICO</h3>
+<h3>dia de ação de graças nos Estados Unidos</h3>
 <p><i><b>
 </p>O equilíbrio químico é um estado dinâmico em que as velocidades das reações químicas direta e inversa são iguais, fazendo com que as concentrações dos reagentes e produtos permaneçam constantes ao longo do tempo. Ele ocorre em reações reversíveis, ou seja, aquelas que podem acontecer tanto no sentido da formação de produtos quanto no sentido de regeneração dos reagentes.</p>
 </p>Características do equilíbrio químico:</p>
