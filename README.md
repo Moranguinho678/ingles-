@@ -32,18 +32,17 @@ Origem na Colônia de Plymouth (1621):
 	•	Em 1863, durante a Guerra Civil, o presidente Abraham Lincoln declarou oficialmente o Dia de Ação de Graças como um feriado nacional, a ser celebrado na última quinta-feira de novembro, como forma de unir o país.
 Mudança para a Quarta Quinta-feira:
 	•	Em 1939, o presidente Franklin D. Roosevelt mudou o feriado para a quarta quinta-feira de novembro para prolongar a temporada de compras natalinas. Em 1941, o Congresso estabeleceu oficialmente a data como a quarta quinta-feira de novembro.
-</b>p>Como é Celebrado Hoje</p>
+</p>Como é Celebrado Hoje</p>
 Tradições Familiares:
 	<\p>•	O Dia de Ação de Graças é uma ocasião em que as famílias se reúnem para compartilhar uma refeição especial e refletir sobre o que são gratas no ano.</p>
-	•	O prato principal é geralmente o peru assado, acompanhado por pratos como purê de batatas, molho de cranberry, torta de abóbora, recheio (stuffing) e outros acompanhamentos regionais.
-Desfiles e Festividades:
+	</p>•	O prato principal é geralmente o peru assado, acompanhado por pratos como purê de batatas, molho de cranberry, torta de abóbora, recheio (stuffing) e outros acompanhamentos regionais.</p>
+	</p>Desfiles e Festividades:
 	•	O famoso Desfile da Macy’s em Nova York, realizado desde 1924, atrai milhões de espectadores com carros alegóricos, balões gigantes, performances e a chegada do Papai Noel no final, marcando o início oficial da temporada natalina.
-	Esportes:
-	•	Jogos de futebol americano são uma tradição importante, com partidas especiais da NFL transmitidas na televisão.
-	Ações de Caridade:
-	•	Muitas pessoas participam de eventos de caridade, como a doação de alimentos e a organização de refeições para os menos favorecidos.
-	Black Friday:
-	•	O dia seguinte ao Dia de Ação de Graças, conhecido como Black Friday, é marcado por promoções e o início da temporada de compras de Natal.
+	</p>Esportes:</p>
+	</p>•Jogos de futebol americano são uma tradição importante, com partidas especiais da NFL transmitidas na televisão.</p>
+	</p>Ações de Caridade:</p>
+	</p>•Muitas pessoas participam de eventos de caridade, como a doação de alimentos e a organização de refeições para os menos favorecidos.</p>
+</p>•O dia seguinte ao Dia de Ação de Graças, conhecido como Black Friday, é marcado por promoções e o início da temporada de compras de Natal.</p>
   </p>Significado Atual</p>
 Embora tenha raízes religiosas, o Dia de Ação de Graças nos Estados Unidos é amplamente celebrado como um feriado secular, focado em expressar gratidão, passar tempo com a família e fortalecer laços comunitários.
 <ul id="lista02">
